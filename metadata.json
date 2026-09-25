@@ -1,0 +1,6 @@
+{
+  "name": "Hungry Bites Multi Cuisine | Tekkali",
+  "description": "Experience authentic multi-cuisine dining in Tekkali, Srikakulam. Explore our digital interactive menu, signature Heaven Chicken, regional pulaos, and reserve tables online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
